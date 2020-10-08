@@ -1,0 +1,48 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+body h3 {
+    background-color: #ebebeb;
+    font-size: 16px;
+    color:#666;
+}
+
+body h6 {
+    font-size: 16px;
+    color:#666;
+}
+
+body h5 {
+    font-size: 16px;
+    color:#ebebeb;
+}
+
+body p {
+    font-size: 12px;
+}
+
+body p .precios {
+    font-size: 18px;
+    color:#666;
+}
+
+#header{
+    background-color: #EAC926;
+    color: #666;
+};
+
+#header ul li a{
+    text-decoration: none;
+  }
+
+.precios{
+    font-size: 18px;
+    color: #666;
+};
+
+.descuentos{
+    font-size: 16px;
+    color: #39b54a;
+};
